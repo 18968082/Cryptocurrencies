@@ -1,0 +1,42 @@
+//	:	Resource
+
+//www.investopedia.com/terms/e/ema.asp
+
+Exponential moving average is a typw of moving average that places a 
+greater weight and significance om the most recent data points. EMA 
+is also referred to as the expoonentially weighted moving average. 
+EMA react more significantly to recent price changes than simple 
+moving average, which applies an equal weight to all the observations 
+in the period. Durations, either in days or hours or minutes are used 
+to create indicators like the moving average convergence divergence 
+and percenrage price oscillator.
+
+Traders who employ technical analysis find moving averages very 
+useful when applied correctly. Moving averages are lagging 
+indicators. For this reason the conclusions drawn from applying a 
+moving average to a paticular market should be to confirm a market 
+move. One may use an EMA to derive a trading entry signal.
+
+EMA is better suited for trending markets. The indicator lines show 
+trends (up or down) and may also be used to determine the rate of 
+change from one bar to the next (indicator lines). This rate of 
+change may be used to forcast an entry/exit signal. This form of 
+indicator analysis counters the lagging effect of using a moving 
+average indicator.
+
+//tradingstrategyguides.com/exponential-moving-average-strategy/
+
+https://www.babypips.com/learn/forex/sma-vs-ema
+
+https://www.babypips.com/learn/forex/exponential-moving-average
+
+https://www.tradeciety.com/how-to-use-moving-averages/
+
+https://pepperstone.com/en/client-resources/the-beginners-guide-to-technical-analysis-moving-averages
+
+https://cryptobulls.info/crypto-trading-introduction-ema-entries-exits
+
+https://www.tradingwithrayner.com/moving-average-indicator-trading-strategy/
+
+https://cryptopotato.com/bitcoin-crypto-technical-analysis-beginners/
+https://cryptopotato.com/bitcoin-crypto-advanced-technical-analysis/
